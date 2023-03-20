@@ -1,0 +1,17 @@
+{
+  "name": "js-styled",
+  "version": "1.0.0",
+  "description": "this package allows developer to write CSS styles in JS file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js-styled",
+    "react-jss",
+    "postcss",
+    "postcss-js"
+  ],
+  "author": "Siow Hao Zhen",
+  "license": "ISC"
+}
