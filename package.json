@@ -13,5 +13,10 @@
     "postcss-js"
   ],
   "author": "Siow Hao Zhen",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "postcss": "^8.4.21",
+    "postcss-js": "^4.0.1",
+    "react-jss": "^10.10.0"
+  }
 }
