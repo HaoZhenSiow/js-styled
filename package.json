@@ -1,6 +1,7 @@
 {
   "name": "js-styled",
-  "version": "1.0.0",
+  "type": "module",
+  "version": "1.0.1",
   "description": "this package allows developer to write CSS styles in JS file",
   "main": "index.js",
   "scripts": {
